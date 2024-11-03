@@ -1,0 +1,115 @@
+{   
+    "paperName": "AWS Fundamentals Quiz",
+    "questions": [
+        {
+            "id": "1",
+            "text": "What does AWS stand for?",
+            "options": [
+                "Amazon Web Services",
+                "Advanced Web Solutions",
+                "Amazon Wireless Systems",
+                "Applied Web Services"
+            ],
+            "correctAnswer": "Amazon Web Services"
+        },
+        {
+            "id": "2",
+            "text": "Which AWS service is used for serverless computing?",
+            "options": [
+                "EC2",
+                "S3",
+                "Lambda",
+                "RDS"
+            ],
+            "correctAnswer": "Lambda"
+        },
+        {
+            "id": "3",
+            "text": "What is the AWS service for scalable storage?",
+            "options": [
+                "DynamoDB",
+                "S3",
+                "Redshift",
+                "EBS"
+            ],
+            "correctAnswer": "S3"
+        },
+        {
+            "id": "4",
+            "text": "Which AWS service is used for managing relational databases?",
+            "options": [
+                "DynamoDB",
+                "RDS",
+                "Redshift",
+                "S3"
+            ],
+            "correctAnswer": "RDS"
+        },
+        {
+            "id": "5",
+            "text": "Which AWS service is used to manage containerized applications?",
+            "options": [
+                "ECS",
+                "EC2",
+                "S3",
+                "CloudFront"
+            ],
+            "correctAnswer": "ECS"
+        },
+        {
+            "id": "6",
+            "text": "Which AWS service provides a virtual private cloud?",
+            "options": [
+                "VPC",
+                "EC2",
+                "RDS",
+                "S3"
+            ],
+            "correctAnswer": "VPC"
+        },
+        {
+            "id": "7",
+            "text": "Which service is used for monitoring and managing AWS resources?",
+            "options": [
+                "CloudWatch",
+                "CloudTrail",
+                "AWS Config",
+                "CloudFormation"
+            ],
+            "correctAnswer": "CloudWatch"
+        },
+        {
+            "id": "8",
+            "text": "Which AWS service is used for content delivery and caching?",
+            "options": [
+                "S3",
+                "CloudFront",
+                "Route 53",
+                "ElastiCache"
+            ],
+            "correctAnswer": "CloudFront"
+        },
+        {
+            "id": "9",
+            "text": "Which AWS service is a fully managed NoSQL database?",
+            "options": [
+                "DynamoDB",
+                "RDS",
+                "Redshift",
+                "Aurora"
+            ],
+            "correctAnswer": "DynamoDB"
+        },
+        {
+            "id": "10",
+            "text": "Which AWS service helps in deploying and managing applications using Docker containers?",
+            "options": [
+                "ECS",
+                "EC2",
+                "Lambda",
+                "S3"
+            ],
+            "correctAnswer": "ECS"
+        }
+    ]
+}
